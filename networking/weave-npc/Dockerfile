@@ -1,2 +1,2 @@
-FROM weaveworks/weave-npc:1.8.1
+FROM weaveworks/weave-npc:2.0.1
 MAINTAINER mritd <mritd@mritd.me>
